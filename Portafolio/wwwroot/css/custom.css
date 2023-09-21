@@ -4,3 +4,22 @@
     border-radius: 50%;
 
 }
+
+.seccion-bienvenida {
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+.seccion-bienvenida h1 {
+    margin-bottom: auto;
+    }
+
+.seccion-bienvenida p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size:1.25rem
+    }
+#imagen-dotnet {
+    width:500px;
+}
+
